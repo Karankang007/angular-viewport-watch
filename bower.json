@@ -11,6 +11,7 @@
     "*.conf.js",
     "app",
     "test",
+    "dist",
     "maven",
     "*.sublime*",
     "protractor-conf.js"
