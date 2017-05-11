@@ -14,7 +14,8 @@
     "dist",
     "maven",
     "*.sublime*",
-    "protractor-conf.js"
+    "protractor-conf.js",
+    "_config.yml"
   ],
   "dependencies": {
     "angular": "^1.2.0",
